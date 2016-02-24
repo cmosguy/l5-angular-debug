@@ -2,6 +2,7 @@ angular.module('app', [
 	'app.filters',
 	'app.services',
 	'app.components',
+	'app.controllers',
 	'app.routes',
 	'app.config',
 	'partialsModule'

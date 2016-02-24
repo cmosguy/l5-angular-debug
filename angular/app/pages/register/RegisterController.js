@@ -1,10 +1,8 @@
-export class RegisterController {
-    constructor() {
-        'ngInject';
+export default function () {
+    'ngInject';
 
-        var vm = this;
+    var vm = this;
 
-        vm.starter = "Adam Klein App";
-    }
+    vm.starter = "Adam Klein App";
 }
         
